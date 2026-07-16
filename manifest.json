@@ -1,0 +1,15 @@
+{
+  "name": "Ledger — Daily Planner",
+  "short_name": "Ledger",
+  "description": "Brain dump, day-kanban planner, and drag-to-timebox calendar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F4F1",
+  "theme_color": "#1F6F5C",
+  "orientation": "any",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
